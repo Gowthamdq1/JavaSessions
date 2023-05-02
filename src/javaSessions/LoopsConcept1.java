@@ -105,11 +105,7 @@ public class LoopsConcept1 {
 				System.out.println(x1);
 				
 			}
-			 
-			 
-			
-		
-		
+
 		}}
 
 

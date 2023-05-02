@@ -23,9 +23,6 @@ public class SwitchCase {
 		default:
 		System.out.println("Invalid browser input");	
 		break;
-		
-		
-		
 		}
 		
 	}

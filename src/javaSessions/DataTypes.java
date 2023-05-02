@@ -83,17 +83,6 @@ public class DataTypes {
 		System.out.println((int)++th);
 		
 		System.out.println((int)th);
-		
-		
-		
-	
-		
-		
-		
-		
-		
-		
-
 	}
 
 }
